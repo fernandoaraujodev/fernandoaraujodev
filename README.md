@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <p>Me chamo Fernando Araujo e tenho 17 anos,<p>
-<p>Atualmente estou no 2º semestre do curso de Desenvolvimento de Sistemas do SENAI, e também estou entusiasmado para seguir aprendendo diversas coisas desta área. Tenho conhecimentos em HTML5, CSS3, SQL Server, C# e JavaScript.<p>
+<p>Atualmente estou no 3º semestre do curso de Desenvolvimento de Sistemas do SENAI no qual desenvolvemos projetos reais para empresas parceiras, e também estou entusiasmado para seguir aprendendo diversas coisas desta área. Tenho conhecimentos em HTML5, CSS3, SQL Server, C# e JavaScript.<p>
  
-<p>O sucesso é a soma de pequenos esforçoes repetidos dia após dia.
+<p>O sucesso é a soma de pequenos esforços repetidos dia após dia.
  
 **Você pode me encontrar aqui**<p>
  
