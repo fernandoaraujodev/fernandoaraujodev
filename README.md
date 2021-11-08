@@ -1,6 +1,6 @@
-<p>Me chamo Fernando Araujo e tenho 17 anos,<p>
-<p>Atualmente estou no 3º semestre do curso de Desenvolvimento de Sistemas do SENAI no qual desenvolvo projetos solucionando problemas reais para empresas parceiras, como a Linx.  Tenho conhecimentos em HTML5, CSS3, SQL Server, C#, JavaScript, React e React Native, que me ajudam a desenvolver sistemas Web, Mobile e até mesmos APIs.<p>
-<p>Gosto muito de inventar projetos e descobrir novas ferramentas para meu desenvolvimento pessoal e profissional. No meu tempo livre gosto de ler livros, jogar e assistir futebol.<p>
+<p>Me chamo Fernando Araujo e tenho 18 anos,<p>
+<p>Sou formado no SENAI como técnico em Desenvolvimento de Sistemas Web e Mobile, no qual desenvolvi projetos reais solucionando problemas para empresas parceiras, como a Linx. Trabalho na área atualmente e tenho conhecimentos em HTML5, CSS3, SQL Server, C#, JavaScript, React e React Native, que me ajudam a desenvolver sistemas Web, Mobile e até mesmos APIs.<p>
+<p>Gosto muito de inventar projetos e descobrir novas ferramentas para meu desenvolvimento pessoal e profissional. No meu tempo livre gosto de ler livros, escutar musicas, jogar e assistir futebol.<p>
  
 <p>O sucesso é a soma de pequenos esforços repetidos dia após dia.
  
